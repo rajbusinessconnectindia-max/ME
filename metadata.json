@@ -1,0 +1,8 @@
+{
+  "name": "Remix: B2B Lead Intel Engine",
+  "description": "An AI-powered B2B data research and extraction engine that finds verified decision-makers and company firmographics using Google Search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
